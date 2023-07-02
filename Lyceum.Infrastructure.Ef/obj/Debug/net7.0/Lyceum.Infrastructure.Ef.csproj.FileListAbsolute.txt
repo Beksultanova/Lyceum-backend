@@ -1,0 +1,17 @@
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\bin\Debug\net7.0\Lyceum.Infrastructure.Ef.deps.json
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\bin\Debug\net7.0\Lyceum.Infrastructure.Ef.runtimeconfig.json
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\bin\Debug\net7.0\Lyceum.Infrastructure.Ef.dll
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\bin\Debug\net7.0\Lyceum.Infrastructure.Ef.pdb
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\bin\Debug\net7.0\Lyceum.Domain.dll
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\bin\Debug\net7.0\Lyceum.Domain.pdb
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\Lyceum.Infrastructure.Ef.csproj.AssemblyReference.cache
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\Lyceum.Infrastructure.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\Lyceum.Infrastructure.Ef.AssemblyInfoInputs.cache
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\Lyceum.Infrastructure.Ef.AssemblyInfo.cs
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\Lyceum.Infrastructure.Ef.csproj.CoreCompileInputs.cache
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\Lyceum.Infrastructure.Ef.csproj.CopyComplete
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\Lyceum.Infrastructure.Ef.dll
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\refint\Lyceum.Infrastructure.Ef.dll
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\Lyceum.Infrastructure.Ef.pdb
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\Lyceum.Infrastructure.Ef.genruntimeconfig.cache
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Infrastructure.Ef\obj\Debug\net7.0\ref\Lyceum.Infrastructure.Ef.dll

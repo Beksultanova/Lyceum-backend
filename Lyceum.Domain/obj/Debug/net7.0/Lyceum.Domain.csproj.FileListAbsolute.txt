@@ -1,0 +1,12 @@
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\bin\Debug\net7.0\Lyceum.Domain.deps.json
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\bin\Debug\net7.0\Lyceum.Domain.dll
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\bin\Debug\net7.0\Lyceum.Domain.pdb
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\obj\Debug\net7.0\Lyceum.Domain.csproj.AssemblyReference.cache
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\obj\Debug\net7.0\Lyceum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\obj\Debug\net7.0\Lyceum.Domain.AssemblyInfoInputs.cache
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\obj\Debug\net7.0\Lyceum.Domain.AssemblyInfo.cs
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\obj\Debug\net7.0\Lyceum.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\obj\Debug\net7.0\Lyceum.Domain.dll
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\obj\Debug\net7.0\refint\Lyceum.Domain.dll
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\obj\Debug\net7.0\Lyceum.Domain.pdb
+C:\Users\Biruni\RiderProjects\Lyceum\Lyceum.Domain\obj\Debug\net7.0\ref\Lyceum.Domain.dll
